@@ -22,6 +22,16 @@ I have gained experience in multidisciplinary environments, from research projec
 
 - Currently, I'm looking for my first professional opportunity in **Frontend Development**.
 
+## 💡 Technologies & Tools
+
+- **Languages**: JavaScript, TypeScript, Python, Java, Ruby, C#
+- **Frontend**: React.js, Three.js, Next.js, Aframe.js
+- **Backend**: Node.js, Express, Django, Ruby on Rails
+- **Database**: PostgreSQL, MongoDB
+- **Design & Prototyping**: Figma, Photoshop, Illustrator, InDesign, After Effects, Premiere
+- **DevOps & Infra**: Docker, Linux, Raspberry Pi
+- **Game Development & Experiments**: Unity, CesiumJS, ResiumJS, Blender
+
 ## What Will You Find Here? 🤔
 
 💻 Projects using **React.js, Three.js, Node.js**
@@ -33,16 +43,6 @@ I have gained experience in multidisciplinary environments, from research projec
 📂 Useful scripts and configurations for **home servers and automation**
 
 📌 Some inspiration from the **PlayStation 2** – a nostalgic touch I bring to some projects!
-
-## 💡 Technologies & Tools
-
-- **Languages**: JavaScript, TypeScript, Python, Java, Ruby, C#
-- **Frontend**: React.js, Three.js, Next.js, Aframe.js
-- **Backend**: Node.js, Express, Django, Ruby on Rails
-- **Database**: PostgreSQL, MongoDB
-- **Design & Prototyping**: Figma, Photoshop, Illustrator, InDesign, After Effects, Premiere
-- **DevOps & Infra**: Docker, Linux, Raspberry Pi
-- **Game Development & Experiments**: Unity, CesiumJS, ResiumJS, Blender
 
 ## 📫 Where to Find Me?
 
