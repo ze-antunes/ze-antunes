@@ -1,6 +1,6 @@
 # Hi, I'm Zé Antunes! 👋
 
-<div style="display:flex; align-items: center; justify-content: center;">
+<div style="width: 100%; display:flex; align-items: center; justify-content: center;">
   <img src="https://i.imgur.com/78ueVAO.png" alt="José Antunes"/>
 </div>
 
