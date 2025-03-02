@@ -1,8 +1,8 @@
 # Hi, I'm Zé Antunes! 👋
 
-<div style="width: 100%; display:flex; align-items: center; justify-content: center;">
-  <img src="https://i.imgur.com/78ueVAO.png" alt="José Antunes"/>
-</div>
+<p align="center">
+  <img src="https://i.imgur.com/QucMCP4.png" alt="José Antunes"/>
+</p>
 
 🚀 Frontend Developer | 🎨 Designer | 🎮 Retro Gaming Enthusiast
 
