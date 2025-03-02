@@ -20,8 +20,6 @@ I have gained experience in multidisciplinary environments, from research projec
 
 - Currently, I'm looking for my first professional opportunity in **Frontend Development**.
 
----
-
 ## What Will You Find Here? 🤔
 
 💻 Projects using **React.js, Three.js, Node.js**
@@ -34,8 +32,6 @@ I have gained experience in multidisciplinary environments, from research projec
 
 📌 Some inspiration from the **PlayStation 2** – a nostalgic touch I bring to some projects!
 
----
-
 ## 💡 Technologies & Tools
 
 - **Languages**: JavaScript, TypeScript, Python, Java, Ruby, C#
@@ -46,19 +42,27 @@ I have gained experience in multidisciplinary environments, from research projec
 - **DevOps & Infra**: Docker, Linux, Raspberry Pi
 - **Game Development & Experiments**: Unity, CesiumJS, ResiumJS, Blender
 
----
-
 ## 📫 Where to Find Me?
 
-🔗 [LinkedIn](https://www.linkedin.com/in/ze-antunes/)  
-📸 [Instagram](https://www.instagram.com/ze_antunes26/)  
-📘 [Facebook](https://www.facebook.com/josepedro.rochaantunes)  
-🎥 [YouTube](https://www.youtube.com/@josepedroantunes889)  
-🧑‍🔬 [ORCID](https://orcid.org/0009-0000-0768-7229)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/ze-antunes/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/ze_antunes26/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.facebook.com/josepedro.rochaantunes" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.youtube.com/@josepedroantunes889" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://orcid.org/0009-0000-0768-7229" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
+  </a>
+</p>
 
 📬 If you want to chat about technology, design, or retro gaming, feel free to reach out!
-
----
 
 > [!note]
 > ✨ "Code is just a canvas for creativity." ✨
