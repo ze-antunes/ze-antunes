@@ -1,8 +1,10 @@
 # Hi, I'm Zé Antunes! 👋
 
-🚀 Frontend Developer | 🎨 Designer | 🎮 Retro Gaming Enthusiast
+<div>
+<img src="https://imgur.com/a/9xKFnKW" alt="José Antunes"/>
+</div>
 
----
+🚀 Frontend Developer | 🎨 Designer | 🎮 Retro Gaming Enthusiast
 
 I am a 24-year-old from Aveiro with a Bachelor's and Master's degree in Design and Multimedia from the University of Coimbra. Throughout my academic and professional journey, I have developed skills in design, web development, and interactive applications. My work spans projects that blend creativity and technology, focusing on areas such as interface design, dashboards, and augmented and virtual reality applications.
 
@@ -10,13 +12,13 @@ I have gained experience in multidisciplinary environments, from research projec
 
 ## About Me
 
-🔹 I'm passionate about technology, design, and web development. I primarily work with **React.js**, **Node.js**, and **Three.js**, always looking for new ways to create unique digital experiences.
+- I'm passionate about technology, design, and web development. I primarily work with **React.js**, **Node.js**, and **Three.js**, always looking for new ways to create unique digital experiences.
 
-🔹 I love exploring the intersection of **design and code**, bringing interactivity and aesthetics to my projects.
+- I love exploring the intersection of **design and code**, bringing interactivity and aesthetics to my projects.
 
-🔹 I'm also a **retro gaming** and old hardware enthusiast – from **console modding** to setting up home servers with Linux.
+- I'm also a **retro gaming** and old hardware enthusiast – from **console modding** to setting up home servers with Linux.
 
-🔹 Currently, I'm looking for my first professional opportunity in **Frontend Development**.
+- Currently, I'm looking for my first professional opportunity in **Frontend Development**.
 
 ---
 
