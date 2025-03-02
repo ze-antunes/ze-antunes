@@ -8,6 +8,8 @@
 🚀 Frontend Developer | 🎨 Designer | 🎮 Retro Gaming Enthusiast
 </p>
 
+#
+
 I am a 24-year-old from Aveiro with a Bachelor's and Master's degree in Design and Multimedia from the University of Coimbra. Throughout my academic and professional journey, I have developed skills in design, web development, and interactive applications. My work spans projects that blend creativity and technology, focusing on areas such as interface design, dashboards, and augmented and virtual reality applications.
 
 I have gained experience in multidisciplinary environments, from research projects to professional internships, where I have delivered functional and visually appealing solutions. I am dedicated to applying my expertise to create innovative projects that meet client needs, always emphasising precision and innovation.
