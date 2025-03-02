@@ -4,7 +4,9 @@
   <img src="https://i.imgur.com/QucMCP4.png" alt="José Antunes"/>
 </p>
 
+<p align="center">
 🚀 Frontend Developer | 🎨 Designer | 🎮 Retro Gaming Enthusiast
+</p>
 
 I am a 24-year-old from Aveiro with a Bachelor's and Master's degree in Design and Multimedia from the University of Coimbra. Throughout my academic and professional journey, I have developed skills in design, web development, and interactive applications. My work spans projects that blend creativity and technology, focusing on areas such as interface design, dashboards, and augmented and virtual reality applications.
 
@@ -48,15 +50,19 @@ I have gained experience in multidisciplinary environments, from research projec
   <a href="https://www.linkedin.com/in/ze-antunes/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  
   <a href="https://www.instagram.com/ze_antunes26/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+  
   <a href="https://www.facebook.com/josepedro.rochaantunes" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
+  
   <a href="https://www.youtube.com/@josepedroantunes889" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
+  
   <a href="https://orcid.org/0009-0000-0768-7229" target="_blank">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
   </a>
